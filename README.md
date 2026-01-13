@@ -1,5 +1,7 @@
 # UTM + OPNsense (Apple Silicon) — Network Order Fix (WAN/LAN)
 
+Amaç: WAN = Shared Network, LAN = Host Only olacak şekilde OPNsense interface mapping’in doğru oturması.
+
 ## Problem
 OPNsense WAN/LAN doğru görünmesine rağmen:
 - Windows internete çıkmıyordu
