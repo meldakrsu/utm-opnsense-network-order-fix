@@ -20,3 +20,5 @@ UTM’de OPNsense VM için network sırası şöyle olmalı:
 > - Trafik düzgün şekilde firewall üzerinden aktı
 
 ## Screenshot
+
+![UTM OPNsense network order](./images/utm-opnsense-network-order.png)
